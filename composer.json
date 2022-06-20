@@ -3,7 +3,7 @@
     "description": "Redireciona o Cliente para o Checkout após registro quando há produto no carrinho",
     "type": "magento2-module",
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
