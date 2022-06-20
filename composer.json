@@ -1,0 +1,16 @@
+{
+    "name": "genesisoft/redirectcustomer",
+    "description": "Redireciona o Cliente para o Checkout após registro quando há produto no carrinho",
+    "type": "magento2-module",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Genesisoft\\RedirectCustomer\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
